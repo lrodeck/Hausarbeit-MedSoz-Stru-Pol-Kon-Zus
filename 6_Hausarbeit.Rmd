@@ -301,6 +301,5 @@ Für Datentransformation und das Erstellen von Plots wurde das Tidyverse-Package
 ## Anmerkung {.unlisted .unnumbered}
 
 Code und Datensets finden sich unter <https://github.com/lrodeck/Hausarbeit-PolKon>
-\pagebreak
 
 # Literatur- und Packageverzeichnis {.unlisted .unnumbered}
