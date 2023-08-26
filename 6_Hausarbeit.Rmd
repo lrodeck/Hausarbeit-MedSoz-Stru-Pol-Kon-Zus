@@ -5,6 +5,10 @@
 Die Ergebnisse zeigen, dass das Sentiment zu Beginn positiv war und sich im Laufe der Zeit negativ veränderte, wobei beide Zeitungen diese Entwicklung widerspiegelten. Die Studie bietet Einblicke in die Rolle der Medien bei der Wahrnehmung der Flüchtlingskrise. Die Verwendung von Natural Language AI-Modellen ermöglicht eine umfassende Analyse großer Textmengen. Die Ergebnisse tragen zur Reflexion über den Medieneinfluss auf die öffentliche Meinung bei und bieten eine Grundlage für zukünftige Forschung über die Berichterstattung zu gesellschaftlich relevanten Themen."
     author: 
       - "Lasse Rodeck, Matrikel Nr.: 6906226"
+      - "Seminartitel: Zur medialen und sozialen Strukturierung Politischen Konflikts und Zusammenhalts"
+      - "Seminar‐Nr.: 24-108.26"
+      - "Modul: Vertiefungsmodul"
+      - "Dozentin: Dr. Matthias Revers"
     date: "`r format(Sys.time(), '%A %d %B, %Y')`"
     output:      
       pdf_document:
@@ -301,5 +305,6 @@ Für Datentransformation und das Erstellen von Plots wurde das Tidyverse-Package
 ## Anmerkung {.unlisted .unnumbered}
 
 Code und Datensets finden sich unter <https://github.com/lrodeck/Hausarbeit-MedSoz-Stru-Pol-Kon-Zus>
+
 
 # Literatur- und Packageverzeichnis {.unlisted .unnumbered}
