@@ -298,7 +298,7 @@ Weiterführende Arbeiten könnten sich mit der Analyse der Akteure innerhalb der
 
 Für Datentransformation und das Erstellen von Plots wurde das Tidyverse-Package [@tidyverse] )benutzt. Webscraping wurde mit hilfe des Rvest Packages durchgeführt [@rvest]. Sentimentanalysen wurden mit Sentiment.ai [@sentiment.ai] durchgeführt. Topic Modelling wurde mit den Libraries von @quanteda, @stm und @topicmodels erstellt. Tabellen wurden mit @vtable erstellt. Da das Scrapen und Auswerten mittels AI Model sehr lange dauert, möchte ich auch besonders @progress erwähnen, welche mir das Leben stark durch einen einfachen Progress Bar sehr vereinfacht haben.
 
-## Anmerkung
+## Anmerkung {.unlisted .unnumbered}
 
 Code und Datensets finden sich unter <https://github.com/lrodeck/Hausarbeit-PolKon>
 \pagebreak
