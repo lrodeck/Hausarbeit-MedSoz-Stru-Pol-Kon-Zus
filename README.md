@@ -41,7 +41,7 @@ Entwicklung, jedoch nur auf Seiten der Bildzeitung
 
 <img width="490" alt="image" src="https://github.com/lrodeck/Hausarbeit-MedSoz-Stru-Pol-Kon-Zus/assets/41971053/8c160c39-079d-498b-9b4d-e6fa83b8303e">
 
-
+## Fazit
 Diese Hausarbeit hat es sich zum Ziel gemacht, vor dem Hintergrund der Flüchtlingskrise von
 2015 bis 2016 mittels eines Natural Language Models die Sentimententwicklung von Artikeln der
 beiden Onlineausgaben der Leitmedien SPON und Bild zu untersuchen. Dies sollte dem Zweck
